@@ -1,0 +1,5 @@
+package gobble
+
+func Query() {
+
+}
